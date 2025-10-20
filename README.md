@@ -1,0 +1,4 @@
+# Linux-15-Days
+## 概述
+1. 常见的OS(Windows, IOS, Android, MacOS, Linux, Unix)
+2. 创始人：芬兰人Linux Torvalds(Linux0.01版码源不到1万行)
